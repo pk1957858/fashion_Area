@@ -1,0 +1,38 @@
+.response {
+    border: 2px solid #dedede;
+    background-color: #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.user {
+    border-color: #ccc;
+    background-color: #f1f1f1;
+}
+
+.response img {
+    float: left;
+    width: 40px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.response_right{
+    float: right;
+    margin-right: 20px;
+    min-width: 260px;
+}
+
+.time-right {
+    color: #908484;
+    margin: 0 6px 10px 0;
+    font-size: 12px;
+}
+
+.time-left {
+    color: #908484;
+    margin: 0 0 10px 43px;
+    font-size: 12px;
+}
